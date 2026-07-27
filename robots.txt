@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.libaaslane.com/sitemap.xml
+Sitemap: https://sufyangammerking-art.github.io/Libaas-Lane/sitemap.xml
