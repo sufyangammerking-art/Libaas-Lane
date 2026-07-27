@@ -4,6 +4,7 @@ h1,h2,h3,h4,h5,h6{font-family:'Playfair Display',serif}
 html{scrollbar-width:thin;scrollbar-color:#8B5E3C #ffff}
 ::-webkit-scrollbar-thumb{color:#8B5E3C;border-radius:20px}
 body{font-family:'Poppins',sans-serif;overflow-x:hidden;width:100%}
+header{z-index: 1055;}
 .topbar{background-color:#222222;color:white;padding:15px 20px}
 .topbar a{color:white;text-decoration:none;transition:.35s ease;padding:0 15px;font-size:13px}
 .topbar p{margin-top:15px;font-size:13px}
